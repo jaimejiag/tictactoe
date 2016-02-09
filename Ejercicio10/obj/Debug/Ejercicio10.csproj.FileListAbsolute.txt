@@ -1,0 +1,9 @@
+C:\Users\Jaime\Documents\FP\Programación\Tema8\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\Jaime\Documents\FP\Programación\Tema8\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\Jaime\Documents\FP\Programación\Tema8\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\Jaime\Documents\FP\Programación\Tema8\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.frmPrincipal.resources
+C:\Users\Jaime\Documents\FP\Programación\Tema8\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.Properties.Resources.resources
+C:\Users\Jaime\Documents\FP\Programación\Tema8\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.GenerateResource.Cache
+C:\Users\Jaime\Documents\FP\Programación\Tema8\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\Jaime\Documents\FP\Programación\Tema8\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
+C:\Users\Jaime\Documents\FP\Programación\Tema8\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojResolveAssemblyReference.cache
